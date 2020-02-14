@@ -1,0 +1,3 @@
+define _editor =notepad
+set suffix txt
+ed path 
